@@ -12,7 +12,7 @@ import type { Metadata } from "next";
 import { ThemeProvider } from "next-themes";
 
 export const metadata: Metadata = {
-  title: "Cursor Directory",
+  title: "The AI Directory",
   description: "Find the best cursor rules for your framework and language",
   icons: [
     {
@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     },
   ],
   openGraph: {
-    title: "Cursor Directory",
+    title: "The AI Directory",
     description: "Find the best cursor rules for your framework and language",
     url: "https://cursor.directory",
     locale: "en_US",
